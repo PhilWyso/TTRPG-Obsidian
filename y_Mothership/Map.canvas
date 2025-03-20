@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"88e4826e1a94dc55","type":"file","file":"y_Mothership/Rooms/Workspace.md","x":-297,"y":-540,"width":1005,"height":580},
+		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-920,"width":450,"height":280}
+	],
+	"edges":[
+		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
+		{"id":"552970d682cdaeb8","fromNode":"88e4826e1a94dc55","fromSide":"top","toNode":"1ab6379aadb03891","toSide":"bottom"}
+	]
+}

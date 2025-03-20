@@ -1,0 +1,13 @@
+- Mike - Mining Engineer, disappeared last night
+- Sonya - Team leader at the base
+- Dr. Ethan Giovanni - Geologist, hired the team to transport the package
+- Sonya - Team leader, wants to find out what's going on. She reported traces of a strange substance found in the mine a couple of months ago.
+- Ashraf - breaker, short accommodating, naïve
+- Dana - Head driller, stoic professional, sullen
+- Jerome - assistant driller, Tall, playful, on edge
+- Kantaro - Loader, Muscular, quiet, hasn't bathed in a few days. INFECTED with yellow goo
+- Morgan - Loader, laid back, friendly nervous
+- Rie - Putter, small sarcastic, impish
+- Rosanne - Mining Engineer, fit laconic, domineering
+- Prince the Cat - Brought aboard against regulations by Morgan
+
