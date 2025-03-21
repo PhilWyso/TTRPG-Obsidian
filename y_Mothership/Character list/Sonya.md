@@ -1,0 +1,1 @@
+Strict Corpo leader of ypsilon 4. Depending on how professional the crew behaves when they land she can either bec
