@@ -1,0 +1,1 @@
+Head driller, very straight forward with her speech and demeanor. Very protective of her underlings, when she realizes they may be in danger.

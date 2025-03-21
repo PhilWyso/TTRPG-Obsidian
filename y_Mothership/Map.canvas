@@ -1,10 +1,18 @@
 {
 	"nodes":[
+		{"id":"1a519c0fd25672a3","x":1104,"y":423,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Washrooms.md"},
 		{"id":"88e4826e1a94dc55","type":"file","file":"y_Mothership/Rooms/Workspace.md","x":-297,"y":-540,"width":1005,"height":580},
-		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-920,"width":450,"height":280}
+		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-920,"width":450,"height":280},
+		{"id":"fb5b5bf18039fc65","x":960,"y":-1120,"width":680,"height":440,"type":"file","file":"y_Mothership/Rooms/Mess.md"},
+		{"id":"0bf196ee1d87447b","x":1118,"y":-453,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Crew Quarters.md"}
 	],
 	"edges":[
 		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
-		{"id":"552970d682cdaeb8","fromNode":"88e4826e1a94dc55","fromSide":"top","toNode":"1ab6379aadb03891","toSide":"bottom"}
+		{"id":"552970d682cdaeb8","fromNode":"88e4826e1a94dc55","fromSide":"top","toNode":"1ab6379aadb03891","toSide":"bottom"},
+		{"id":"ae30356edb5215f9","fromNode":"88e4826e1a94dc55","fromSide":"right","toNode":"0bf196ee1d87447b","toSide":"left"},
+		{"id":"273b9f769beaf4ec","fromNode":"0bf196ee1d87447b","fromSide":"left","toNode":"88e4826e1a94dc55","toSide":"right"},
+		{"id":"0a2ec2ccb559b8d3","fromNode":"fb5b5bf18039fc65","fromSide":"bottom","toNode":"0bf196ee1d87447b","toSide":"top"},
+		{"id":"5e601fb21e44b2cc","fromNode":"0bf196ee1d87447b","fromSide":"top","toNode":"fb5b5bf18039fc65","toSide":"bottom"},
+		{"id":"4eaf90b5b6a886ca","fromNode":"0bf196ee1d87447b","fromSide":"bottom","toNode":"1a519c0fd25672a3","toSide":"top"}
 	]
 }
