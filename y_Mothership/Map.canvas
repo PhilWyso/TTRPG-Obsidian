@@ -1,10 +1,14 @@
 {
 	"nodes":[
-		{"id":"1a519c0fd25672a3","x":1104,"y":423,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Washrooms.md"},
 		{"id":"88e4826e1a94dc55","type":"file","file":"y_Mothership/Rooms/Workspace.md","x":-297,"y":-540,"width":1005,"height":580},
-		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-920,"width":450,"height":280},
-		{"id":"fb5b5bf18039fc65","x":960,"y":-1120,"width":680,"height":440,"type":"file","file":"y_Mothership/Rooms/Mess.md"},
-		{"id":"0bf196ee1d87447b","x":1118,"y":-453,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Crew Quarters.md"}
+		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-1140,"width":450,"height":500},
+		{"id":"1a519c0fd25672a3","x":1104,"y":423,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Washrooms.md"},
+		{"id":"5ac928507891b8e3","x":-920,"y":223,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md"},
+		{"id":"ddac788bd7509487","x":31,"y":223,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Depths.md"},
+		{"id":"14102bbd6c763e6e","x":-1680,"y":223,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md"},
+		{"id":"fb5b5bf18039fc65","x":964,"y":-1140,"width":680,"height":440,"type":"file","file":"y_Mothership/Rooms/Mess.md"},
+		{"id":"0bf196ee1d87447b","x":956,"y":-586,"width":696,"height":673,"type":"file","file":"y_Mothership/Rooms/Crew Quarters.md"},
+		{"id":"016c3c6058ed0635","x":-800,"y":-1140,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md"}
 	],
 	"edges":[
 		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
@@ -13,6 +17,13 @@
 		{"id":"273b9f769beaf4ec","fromNode":"0bf196ee1d87447b","fromSide":"left","toNode":"88e4826e1a94dc55","toSide":"right"},
 		{"id":"0a2ec2ccb559b8d3","fromNode":"fb5b5bf18039fc65","fromSide":"bottom","toNode":"0bf196ee1d87447b","toSide":"top"},
 		{"id":"5e601fb21e44b2cc","fromNode":"0bf196ee1d87447b","fromSide":"top","toNode":"fb5b5bf18039fc65","toSide":"bottom"},
-		{"id":"4eaf90b5b6a886ca","fromNode":"0bf196ee1d87447b","fromSide":"bottom","toNode":"1a519c0fd25672a3","toSide":"top"}
+		{"id":"4eaf90b5b6a886ca","fromNode":"0bf196ee1d87447b","fromSide":"bottom","toNode":"1a519c0fd25672a3","toSide":"top"},
+		{"id":"02761567aba2c01f","fromNode":"88e4826e1a94dc55","fromSide":"bottom","toNode":"5ac928507891b8e3","toSide":"top"},
+		{"id":"c3a62bef8b1fce16","fromNode":"5ac928507891b8e3","fromSide":"left","toNode":"14102bbd6c763e6e","toSide":"right"},
+		{"id":"aebb8896b53cf79e","fromNode":"14102bbd6c763e6e","fromSide":"right","toNode":"5ac928507891b8e3","toSide":"left"},
+		{"id":"05a7e7843f01bd6c","fromNode":"5ac928507891b8e3","fromSide":"right","toNode":"ddac788bd7509487","toSide":"left"},
+		{"id":"51ad9bf41373048d","fromNode":"ddac788bd7509487","fromSide":"left","toNode":"5ac928507891b8e3","toSide":"right"},
+		{"id":"abeede023b45bc4c","fromNode":"016c3c6058ed0635","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"left"},
+		{"id":"9f5f4e46e9c21889","fromNode":"88e4826e1a94dc55","fromSide":"left","toNode":"016c3c6058ed0635","toSide":"bottom"}
 	]
 }
