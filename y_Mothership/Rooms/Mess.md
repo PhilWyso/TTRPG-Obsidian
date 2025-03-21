@@ -1,1 +1,5 @@
-
+- Communal eating area.
+- The Automated Kitchen Unit is restocked by the cargo ships that visit each month, Prince the Cat has cardboard box bed here, along with his food and water bowls. 
+- [[Cassette 1]] from Sonya's collection has been left on the table.
+- A Hydroponic Garden connected to the vents, grows fresh salad. A Rota is pinned to the wall next to it, with a different  crew member tasked with the garden's upkeep each month. Mike is the last name on the list. The plants are visibly beginning to Wilt
+- Contains Vents

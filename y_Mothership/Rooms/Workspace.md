@@ -9,3 +9,4 @@ Work boots clang and echo.
 - In the opposite corner white sheet plastic and sterile lighting marks a semi-permanent **Medbay** 
 	- only the most basic supplies. 
 - The floor opens up into a **Yawning Pit**, with a mechanized drill and pump system penetrating down into the dark **Mine Shaft.** A spartan **Freight Elevator** carries miners to and from the **Mine Entrance**. The trip down takes 10 minutes.
+- Contains Vents

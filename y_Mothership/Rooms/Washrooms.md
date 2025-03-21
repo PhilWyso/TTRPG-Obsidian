@@ -1,1 +1,3 @@
-Showers and toilets in a series of cubicles. One shower is out of order - according to the other works, Mike said he accidentally broke it 
+- Showers and toilets in a series of cubicles. One shower is out of order - according to the other works, Mike said he accidentally broke it last night just before he disappeared.
+- There is a Large Clunky Extractor in the ceiling that filters out steam into the vents. It looks like it could be easily removed.
+- Contains Vents
