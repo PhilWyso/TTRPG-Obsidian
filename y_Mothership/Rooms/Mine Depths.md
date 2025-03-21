@@ -1,0 +1,1 @@
+A splash of [[Yellow Goo]] on the natural cave walls. An empty vaccsuit, slumped in a heap. The word "SILENCE" is scorched into the wall with a handheld laser cutter that lays discarded nearby.
