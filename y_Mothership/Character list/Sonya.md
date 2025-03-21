@@ -1,1 +1,1 @@
-Strict Corpo leader of ypsilon 4. Depending on how professional the crew behaves when they land she can either bec
+Strict Corpo leader of ypsilon 4. Depending on how professional the crew behaves when they land she can either become a valuable resource of information and cooperate, or just look at them with disdain.
