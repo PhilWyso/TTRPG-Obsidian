@@ -1,0 +1,1 @@
+The ship consists of a massive cargo hold, that lies beneath its life support and crew cabins. It is covered in a metallic grey reinforced plating.  Its design is purely functional—large, square, and utilitarian, with a broad, expansive nose and an array of thrusters, venting exhaust as the ship adjusts its orientation. 
