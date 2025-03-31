@@ -24,4 +24,11 @@ Whenever you roll doubles on 1d100, the result is special. If the result is a su
 
 ## Violence
 #### Damage & Wounds
-Whenever a character takes Damage, reduce Health by that amount. If Health is reduced to zero, gain a Wound and roll on the 
+Whenever a character takes Damage, reduce Health by that amount. If Health is reduced to zero, gain a Wound and roll on the Wounds Table.
+
+#### Armor & Cover
+You can ignore any Damage less than the AP of armor + cover. Any Damage greater than that value destroys the armor or cover and carries over. Damage Reduction reduces all incoming Damage
+
+#### Death
+Whenever your character takes Wounds equal to their Maximum Wounds, make a Death Save.
+

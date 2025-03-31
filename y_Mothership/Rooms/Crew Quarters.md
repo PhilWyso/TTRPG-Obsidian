@@ -1,0 +1,1 @@
+A simple bunks in a series of 10 small, individual rooms. The Ceiling Tiles can be easily removed, should anyone try, to reveal a crawl space above full of wiring pipes, with access to the vents.
