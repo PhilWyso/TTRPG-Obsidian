@@ -7,4 +7,21 @@ Roll d100 than your Sanity, Fear, or Body to avoid danger, otherwise fail and ga
 A roll of 90-99 is always considered a failure
 
 ## Panic Checks
-When the worst has happened, to avoid Panicking, roll the Panic Die (1d20)
+When the worst has happened, to avoid Panicking, roll the Panic Die (1d20) greater than the character's current Stress or else Panic
+
+## Skills
+If a character has a Skill relevant to the task at hand you can add its Skill Bonus to the stat before rolling a stack checks
+- Trained Skill: +10
+- Expert Skill: +15
+- Master Skills: +20
+
+## Advantage & Disadvantage
+If a character has a situational Advantage+, roll the dice twice and take the best result.
+If a character has a situational Disadvantage-, roll the dice twice and take the worst result
+
+## Criticals
+Whenever you roll doubles on 1d100, the result is special. If the result is a success it is a critical Success. If the result is a failure it is a Critical Failure
+
+## Violence
+#### Damage & Wounds
+Whenever a character takes Damage, reduce Health by that amount. If Health is reduced to zero, gain a Wound and roll on the 
