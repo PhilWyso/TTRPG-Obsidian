@@ -1,0 +1,1 @@
+Breaker, short accomodatting, naive
