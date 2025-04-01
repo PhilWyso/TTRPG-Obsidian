@@ -1,14 +1,16 @@
 {
 	"nodes":[
+		{"id":"7570d5f3b08d63c8","x":730,"y":-201,"width":250,"height":60,"type":"text","text":""},
 		{"id":"88e4826e1a94dc55","type":"file","file":"y_Mothership/Rooms/Workspace.md","x":-297,"y":-540,"width":1005,"height":580},
 		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-1140,"width":450,"height":500},
-		{"id":"1a519c0fd25672a3","x":1104,"y":423,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Washrooms.md"},
-		{"id":"5ac928507891b8e3","x":-920,"y":223,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md"},
-		{"id":"ddac788bd7509487","x":31,"y":223,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Depths.md"},
-		{"id":"14102bbd6c763e6e","x":-1680,"y":223,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md"},
-		{"id":"fb5b5bf18039fc65","x":964,"y":-1140,"width":680,"height":440,"type":"file","file":"y_Mothership/Rooms/Mess.md"},
-		{"id":"0bf196ee1d87447b","x":956,"y":-586,"width":696,"height":673,"type":"file","file":"y_Mothership/Rooms/Crew Quarters.md"},
-		{"id":"016c3c6058ed0635","x":-800,"y":-1140,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md"}
+		{"id":"1a519c0fd25672a3","type":"file","file":"y_Mothership/Rooms/Washrooms.md","x":1104,"y":423,"width":400,"height":400},
+		{"id":"5ac928507891b8e3","type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md","x":-920,"y":223,"width":400,"height":400},
+		{"id":"ddac788bd7509487","type":"file","file":"y_Mothership/Rooms/Mine Depths.md","x":31,"y":223,"width":400,"height":400},
+		{"id":"14102bbd6c763e6e","type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md","x":-1680,"y":223,"width":400,"height":400},
+		{"id":"fb5b5bf18039fc65","type":"file","file":"y_Mothership/Rooms/Mess.md","x":964,"y":-1140,"width":680,"height":440},
+		{"id":"0bf196ee1d87447b","type":"file","file":"y_Mothership/Rooms/Crew Quarters.md","x":956,"y":-586,"width":696,"height":673},
+		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-800,"y":-1140,"width":400,"height":400},
+		{"id":"009c556870ee157f","x":431,"y":-700,"width":127,"height":60,"color":"1","type":"text","text":"[[Sonya]]"}
 	],
 	"edges":[
 		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
