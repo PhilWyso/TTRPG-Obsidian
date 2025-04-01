@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-1140,"width":450,"height":500},
-		{"id":"1a519c0fd25672a3","type":"file","file":"y_Mothership/Rooms/Washrooms.md","x":1104,"y":423,"width":400,"height":400},
+		{"id":"1a519c0fd25672a3","type":"file","file":"y_Mothership/Rooms/Washrooms.md","x":1060,"y":423,"width":480,"height":397},
 		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-800,"y":-1140,"width":400,"height":400},
 		{"id":"6d83367f5dd98118","type":"text","text":"[[Dr. Giovanni]]","x":-400,"y":-1100,"width":170,"height":60,"color":"4"},
-		{"id":"eec8fce7d94c53a2","type":"text","text":"Rosalina","x":1652,"y":-108,"width":130,"height":59,"color":"#e08f8f"},
+		{"id":"eec8fce7d94c53a2","type":"text","text":"[[Rosalina]]","x":1652,"y":-108,"width":130,"height":59,"color":"#e08f8f"},
 		{"id":"7570d5f3b08d63c8","type":"text","text":"[[Asharaf]]","x":618,"y":-138,"width":130,"height":61,"color":"2"},
 		{"id":"5ac928507891b8e3","type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md","x":-960,"y":560,"width":400,"height":400},
 		{"id":"ddac788bd7509487","type":"file","file":"y_Mothership/Rooms/Mine Depths.md","x":31,"y":560,"width":709,"height":680},
