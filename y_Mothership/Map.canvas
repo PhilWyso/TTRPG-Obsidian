@@ -14,10 +14,9 @@
 		{"id":"d7cd977656d480fd","type":"text","text":"# Party\nPatience,\nRed\ndave","x":-836,"y":-233,"width":156,"height":219,"color":"#ff0000"},
 		{"id":"eb7eeb3615e5ba48","type":"text","text":"# Party\nCC\nArmy","x":1644,"y":-510,"width":206,"height":220,"color":"#ff0000"},
 		{"id":"ddac788bd7509487","type":"file","file":"y_Mothership/Rooms/Mine Depths.md","x":-86,"y":424,"width":709,"height":680},
-		{"id":"2158ec73272f3b61","type":"text","text":"[[Kantaro]]","x":1644,"y":-990,"width":130,"height":59,"color":"5"},
-		{"id":"009c556870ee157f","type":"text","text":"[[Sonya]]","x":1647,"y":-871,"width":127,"height":60,"color":"1"},
 		{"id":"fb5b5bf18039fc65","type":"file","file":"y_Mothership/Rooms/Mess.md","x":956,"y":-1140,"width":680,"height":440},
-		{"id":"40ba537a7a02c394","type":"text","text":"Jerome","x":1682,"y":-182,"width":130,"height":59,"color":"5"}
+		{"id":"2158ec73272f3b61","type":"text","text":"[[Kantaro]]","x":1360,"y":-290,"width":130,"height":59,"color":"5"},
+		{"id":"009c556870ee157f","type":"text","text":"[[Sonya]]","x":1363,"y":-171,"width":127,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
