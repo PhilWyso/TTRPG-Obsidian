@@ -11,7 +11,6 @@
 		{"id":"f975f85460a58758","type":"text","text":"Kantaro","x":623,"y":-49,"width":125,"height":69,"color":"6"},
 		{"id":"88e4826e1a94dc55","type":"file","file":"y_Mothership/Rooms/Workspace.md","x":-257,"y":-510,"width":1005,"height":580},
 		{"id":"0bf196ee1d87447b","type":"file","file":"y_Mothership/Rooms/Crew Quarters.md","x":948,"y":-556,"width":696,"height":673},
-		{"id":"9a173305b64c1152","type":"text","text":"Rie","x":-545,"y":622,"width":140,"height":62,"color":"#2d6760"},
 		{"id":"d7cd977656d480fd","type":"text","text":"# Party\nPatience,\nRed\ndave","x":-836,"y":-233,"width":156,"height":219,"color":"#ff0000"},
 		{"id":"eb7eeb3615e5ba48","type":"text","text":"# Party\nCC\nArmy","x":1644,"y":-510,"width":206,"height":220,"color":"#ff0000"},
 		{"id":"ddac788bd7509487","type":"file","file":"y_Mothership/Rooms/Mine Depths.md","x":-86,"y":424,"width":709,"height":680},
