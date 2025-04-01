@@ -1,0 +1,1 @@
+![[psg-6-wounds.webp]]

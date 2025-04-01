@@ -1,0 +1,1 @@
+![[psg-4-panic-table.webp]]1. 
