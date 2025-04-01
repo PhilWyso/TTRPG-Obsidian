@@ -6,18 +6,20 @@
 		{"id":"fb5b5bf18039fc65","type":"file","file":"y_Mothership/Rooms/Mess.md","x":964,"y":-1140,"width":680,"height":440},
 		{"id":"0bf196ee1d87447b","type":"file","file":"y_Mothership/Rooms/Crew Quarters.md","x":956,"y":-586,"width":696,"height":673},
 		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-800,"y":-1140,"width":400,"height":400},
-		{"id":"009c556870ee157f","x":431,"y":-700,"width":127,"height":60,"color":"1","type":"text","text":"[[Sonya]]"},
-		{"id":"6d83367f5dd98118","x":-400,"y":-1100,"width":170,"height":60,"color":"4","type":"text","text":"[[Dr. Giovanni]]"},
-		{"id":"40ba537a7a02c394","x":1652,"y":-279,"width":130,"height":59,"color":"5","type":"text","text":"Jerome"},
-		{"id":"eec8fce7d94c53a2","x":1652,"y":-108,"width":130,"height":59,"color":"#e08f8f","type":"text","text":"Rosalina"},
-		{"id":"7570d5f3b08d63c8","x":618,"y":-138,"width":130,"height":61,"color":"2","type":"text","text":"[[Asharaf]]"},
-		{"id":"f975f85460a58758","x":646,"y":-29,"width":125,"height":69,"color":"6","type":"text","text":"Kantaro"},
+		{"id":"009c556870ee157f","type":"text","text":"[[Sonya]]","x":431,"y":-700,"width":127,"height":60,"color":"1"},
+		{"id":"6d83367f5dd98118","type":"text","text":"[[Dr. Giovanni]]","x":-400,"y":-1100,"width":170,"height":60,"color":"4"},
+		{"id":"40ba537a7a02c394","type":"text","text":"Jerome","x":1652,"y":-279,"width":130,"height":59,"color":"5"},
+		{"id":"eec8fce7d94c53a2","type":"text","text":"Rosalina","x":1652,"y":-108,"width":130,"height":59,"color":"#e08f8f"},
+		{"id":"7570d5f3b08d63c8","type":"text","text":"[[Asharaf]]","x":618,"y":-138,"width":130,"height":61,"color":"2"},
+		{"id":"f975f85460a58758","type":"text","text":"Kantaro","x":646,"y":-29,"width":125,"height":69,"color":"6"},
 		{"id":"5ac928507891b8e3","type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md","x":-960,"y":560,"width":400,"height":400},
 		{"id":"ddac788bd7509487","type":"file","file":"y_Mothership/Rooms/Mine Depths.md","x":31,"y":560,"width":400,"height":400},
-		{"id":"9a173305b64c1152","x":-560,"y":714,"width":140,"height":50,"color":"#2d6760","type":"text","text":"Rie"},
-		{"id":"7615f7d8c4fc48c5","x":-560,"y":833,"width":125,"height":55,"color":"#b82e00","type":"text","text":"Morgan"},
-		{"id":"44e7dbaffe83f92b","x":-555,"y":623,"width":130,"height":60,"color":"3","type":"text","text":"[[Dana]]"},
-		{"id":"14102bbd6c763e6e","type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md","x":-1640,"y":564,"width":400,"height":400}
+		{"id":"9a173305b64c1152","type":"text","text":"Rie","x":-560,"y":714,"width":140,"height":50,"color":"#2d6760"},
+		{"id":"7615f7d8c4fc48c5","type":"text","text":"Morgan","x":-560,"y":833,"width":125,"height":55,"color":"#b82e00"},
+		{"id":"44e7dbaffe83f92b","type":"text","text":"[[Dana]]","x":-555,"y":623,"width":130,"height":60,"color":"3"},
+		{"id":"14102bbd6c763e6e","type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md","x":-1640,"y":564,"width":400,"height":400},
+		{"id":"0d4ec5f7b7d57155","x":-960,"y":87,"width":400,"height":400,"type":"file","file":"y_Mothership/Rooms/Mine Entrance.md"},
+		{"id":"eb7eeb3615e5ba48","x":431,"y":-1117,"width":152,"height":95,"color":"#ff0000","type":"text","text":"# Party"}
 	],
 	"edges":[
 		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
@@ -32,6 +34,10 @@
 		{"id":"05a7e7843f01bd6c","fromNode":"5ac928507891b8e3","fromSide":"right","toNode":"ddac788bd7509487","toSide":"left"},
 		{"id":"51ad9bf41373048d","fromNode":"ddac788bd7509487","fromSide":"left","toNode":"5ac928507891b8e3","toSide":"right"},
 		{"id":"abeede023b45bc4c","fromNode":"016c3c6058ed0635","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"left"},
-		{"id":"9f5f4e46e9c21889","fromNode":"88e4826e1a94dc55","fromSide":"left","toNode":"016c3c6058ed0635","toSide":"bottom"}
+		{"id":"9f5f4e46e9c21889","fromNode":"88e4826e1a94dc55","fromSide":"left","toNode":"016c3c6058ed0635","toSide":"bottom"},
+		{"id":"e95370a2d86b31cc","fromNode":"88e4826e1a94dc55","fromSide":"bottom","toNode":"0d4ec5f7b7d57155","toSide":"right"},
+		{"id":"7161bbf1942e6c6b","fromNode":"0d4ec5f7b7d57155","fromSide":"right","toNode":"88e4826e1a94dc55","toSide":"bottom"},
+		{"id":"a4fa2304bec1661b","fromNode":"0d4ec5f7b7d57155","fromSide":"bottom","toNode":"5ac928507891b8e3","toSide":"top"},
+		{"id":"6b7751171ffad784","fromNode":"5ac928507891b8e3","fromSide":"top","toNode":"0d4ec5f7b7d57155","toSide":"bottom"}
 	]
 }
