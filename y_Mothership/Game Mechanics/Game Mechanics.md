@@ -19,7 +19,7 @@ If a character has a Skill relevant to the task at hand you can add its Skill Bo
 If a character has a situational Advantage+, roll the dice twice and take the best result.
 If a character has a situational Disadvantage-, roll the dice twice and take the worst result
 
-## Criticals
+## Critical
 Whenever you roll doubles on 1d100, the result is special. If the result is a success it is a critical Success. If the result is a failure it is a Critical Failure
 
 ## Violence
