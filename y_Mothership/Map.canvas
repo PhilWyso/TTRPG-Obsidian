@@ -2,8 +2,7 @@
 	"nodes":[
 		{"id":"1ab6379aadb03891","type":"file","file":"y_Mothership/Rooms/Docking Bay 2.md","x":-19,"y":-1140,"width":450,"height":500},
 		{"id":"1a519c0fd25672a3","type":"file","file":"y_Mothership/Rooms/Washrooms.md","x":1060,"y":423,"width":480,"height":397},
-		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-800,"y":-1140,"width":400,"height":400},
-		{"id":"6d83367f5dd98118","type":"text","text":"[[Dr. Giovanni]]","x":-400,"y":-1100,"width":170,"height":60,"color":"4"},
+		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-800,"y":-1140,"width":400,"height":440},
 		{"id":"7570d5f3b08d63c8","type":"text","text":"[[Asharaf]]","x":618,"y":-138,"width":130,"height":61,"color":"2"},
 		{"id":"5ac928507891b8e3","type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md","x":-960,"y":560,"width":400,"height":400},
 		{"id":"14102bbd6c763e6e","type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md","x":-1640,"y":564,"width":400,"height":400},
@@ -15,8 +14,9 @@
 		{"id":"eb7eeb3615e5ba48","type":"text","text":"# Party\nCC\nArmy","x":1644,"y":-510,"width":206,"height":220,"color":"#ff0000"},
 		{"id":"ddac788bd7509487","type":"file","file":"y_Mothership/Rooms/Mine Depths.md","x":-86,"y":424,"width":709,"height":680},
 		{"id":"fb5b5bf18039fc65","type":"file","file":"y_Mothership/Rooms/Mess.md","x":956,"y":-1140,"width":680,"height":440},
-		{"id":"2158ec73272f3b61","type":"text","text":"[[Kantaro]]","x":520,"y":-230,"width":130,"height":59,"color":"5"},
-		{"id":"009c556870ee157f","type":"text","text":"[[Sonya]]","x":560,"y":-123,"width":127,"height":60,"color":"1"}
+		{"id":"009c556870ee157f","type":"text","text":"[[Sonya]]","x":560,"y":-138,"width":127,"height":60,"color":"1"},
+		{"id":"2158ec73272f3b61","type":"text","text":"[[Kantaro]]","x":560,"y":-459,"width":130,"height":59,"color":"5"},
+		{"id":"6d83367f5dd98118","type":"text","text":"[[Dr. Giovanni]]","x":-400,"y":-1140,"width":170,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"12bbaa757a992a1d","fromNode":"1ab6379aadb03891","fromSide":"bottom","toNode":"88e4826e1a94dc55","toSide":"top"},
