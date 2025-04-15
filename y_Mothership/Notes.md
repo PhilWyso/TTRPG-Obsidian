@@ -6,4 +6,6 @@ Going to setup the game to have two aliens,  the original and the infected Mike.
 
 I will make the cat attack the drone and hopefully take it down, which forced Ariel to board the ship to unlock the doors. At which point the cat will be a misdirection and Ariel will get attacked by the doctor.
 
-Meanwhile in the mining colony, the other party will end up getting attacked by the other two aliens. Kentaro and the party will try to fend them off.
+Meanwhile in the mining colony, the other party will end up getting attacked by the other two aliens. Kentaro and the party will try to fend them off. Lots of the squad have weapons, so Im thinking of having two invisible aliens. One will immediately try to kill off [[Sonya]] and the other will attempt to attack the player crew. 
+
+The crew can
