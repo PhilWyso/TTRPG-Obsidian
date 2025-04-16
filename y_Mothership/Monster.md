@@ -8,4 +8,8 @@ Hits - 3(40)
 Claws 2d10/2d10
 Devour 4d10
 
-InvisibleBio
+Invisible
+Biosonar - blind and uses echolocation to hunt, disoriented by loud noises
+Climber - Can cling to walls and scielings
+Yellow Goo - spreads when it bleeds
+Water vulnerability
