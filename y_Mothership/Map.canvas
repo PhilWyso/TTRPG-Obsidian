@@ -14,7 +14,7 @@
 		{"id":"14102bbd6c763e6e","type":"file","file":"y_Mothership/Rooms/Mine Antechamber.md","x":-1760,"y":124,"width":400,"height":400},
 		{"id":"0d4ec5f7b7d57155","type":"file","file":"y_Mothership/Rooms/Mine Entrance.md","x":-1080,"y":-353,"width":400,"height":400},
 		{"id":"5ac928507891b8e3","type":"file","file":"y_Mothership/Rooms/Mine Tunnel.md","x":-1080,"y":120,"width":400,"height":400},
-		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-920,"y":-1580,"width":380,"height":560},
+		{"id":"016c3c6058ed0635","type":"file","file":"y_Mothership/Rooms/Docking Bay 1.md","x":-920,"y":-1580,"width":570,"height":501},
 		{"id":"d7cd977656d480fd","type":"text","text":"# Party\nPatience,\nRed\ndave","x":-135,"y":-1839,"width":156,"height":219,"color":"#ff0000"},
 		{"id":"2158ec73272f3b61","type":"text","text":"[[Kantaro]]","x":374,"y":-1139,"width":130,"height":59,"color":"5"},
 		{"id":"c73e5ed2f60f99a1","type":"text","text":"[[Sonya]]","x":-265,"y":-1124,"width":130,"height":89,"color":"5"}
