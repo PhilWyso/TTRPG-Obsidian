@@ -5,7 +5,7 @@ Speed - 50%
 Instinct - 35%
 Hits - 40
 
-Claws 2d10/2d10
+tentacle 2d10/2d10
 Devour 4d10
 
 Invisible
