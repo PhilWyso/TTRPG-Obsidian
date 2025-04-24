@@ -12,4 +12,14 @@
 	- Iruvia - If you want to be from a "foreign" land. A rich and powerful desert kingdom to the south, a diverse land similiar to old Persia, Egypt, and India
 	- Severos - If you want to be from a "wild" place. Outside the few Imperial settlements, most Sevorosi live in nomadic horse-tribes scattered across the Blasted deathlands, surviving within the ruins of arcane fortresses which still repel spirits
 	- Skovlan - Marginized people, in an island kingdom across the sea from Doskvol. Skovlan was the last to be brought under perial rule, over the course of the 36-year Unit War which only ended a few years ago. Many skovlander refugees who lost their heomes and jbos in the destruction of the war have come to Doskvol seeking new opportunities
-	- Tycheros - semi-mythical place, far away beyond the northern void sea. Everyone says the people there are part-demon, due to t
+	- Tycheros - semi-mythical place, far away beyond the northern void sea. Everyone says the people there are part-demon, due to to mutations to their physical appearance, like having feathers for hair, or completely black eyed
+3. Choose a background 
+	- academic
+	- laborer
+	- law
+	- trade
+	- military
+	- noble
+	- underworld
+4. Place 4 action dots
+	- your playbook comes with 3 dots a
