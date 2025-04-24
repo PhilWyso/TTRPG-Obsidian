@@ -27,4 +27,13 @@
 	- each playbook comes with a bunch of special abilities. Select one 
 6. Choose a close friend and a rival
 	- each playbook comes with a list of NPCs your character can be friends or rivals with. Select one friend and one rival to start with.
-7. Choo
+7. Choose a vice
+	- Faith
+	- Gambling
+	- luxury
+	- obligation
+	- drinking 
+	- pleasure
+	- stupor
+	- weird
+8. Name, physical appearance
