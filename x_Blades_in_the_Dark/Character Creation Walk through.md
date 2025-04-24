@@ -22,4 +22,9 @@
 	- noble
 	- underworld
 4. Place 4 action dots
-	- your playbook comes with 3 dots a
+	- your character comes with 3 dots already placed due to your selected playbook. Place 4 more without exceeding 2 on a single action. You should have 7 dots filled in total. Justify how your character might have experience in those actions.
+5. Choose a special ability for your character
+	- each playbook comes with a bunch of special abilities. Select one 
+6. Choose a close friend and a rival
+	- each playbook comes with a list of NPCs your character can be friends or rivals with. Select one friend and one rival to start with.
+7. Choo
