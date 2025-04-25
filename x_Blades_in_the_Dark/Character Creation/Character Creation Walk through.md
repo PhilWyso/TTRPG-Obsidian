@@ -39,4 +39,4 @@
 	- pleasure
 	- stupor
 	- weird
-8. Name, physical appearance
+8. Name, Alias, and physical appearance
