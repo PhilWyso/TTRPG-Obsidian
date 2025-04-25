@@ -15,7 +15,9 @@ If you're not sure which action to use, think about your character's playbook, h
 
 After you figure out what action the player is rolling with, the GM provides the following information before you roll:
 - Potential Consequences
-- The Position - your character's 
+- The Position - your character's potential to lose
+- The Effect - your character's potential to manipulate the situation on a success
+	- Limited Effect - Little to no change
 
 
 
