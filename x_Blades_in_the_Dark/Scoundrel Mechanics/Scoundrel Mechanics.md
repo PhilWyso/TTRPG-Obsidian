@@ -17,7 +17,8 @@ After you figure out what action the player is rolling with, the GM provides the
 - Potential Consequences
 - The Position - your character's potential to lose
 - The Effect - your character's potential to manipulate the situation on a success
-	- Limited Effect - Little to no change
+	- Limited Effect - Little change to the circumstances
+	- Standard Effect - Expected change to circumsta
 
 
 
