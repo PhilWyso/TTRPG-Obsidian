@@ -13,7 +13,7 @@
 	- Severos
 	- Skovlan
 	- Tycheros
-3. Choose a background 
+3. Choose a [[Background]] 
 	- academic
 	- laborer
 	- law
@@ -30,7 +30,7 @@
 	- each playbook comes with a bunch of special abilities. Select one 
 6. Choose a close friend and a rival
 	- each playbook comes with a list of NPCs your character can be friends or rivals with. Select one friend and one rival to start with.
-7. Choose a vice
+7. Choose a [[vice]]
 	- Faith
 	- Gambling
 	- luxury
