@@ -13,12 +13,17 @@ When you're on the score, the GM introduces dangerous obstacles between you and 
 By stating your actions this way, you avoid the problem of trying to use an action as if it's a broader skill. You simply say that you're performing the action itself. 
 If you're not sure which action to use, think about your character's playbook, heritage and background. What do they know how to do? How do they address problems?
 
+After you figure out what action the player is rolling with, the GM provides the following information before you roll:
+- Potential Consequences
+- The Position - your character's 
+
+
 
 ### Get a Bonus Die
 Get a bonus die for your roll by marking 2 stress to exert yourself or asking for a Devil's Bargain from the GM. A devil's bargain allows the GM to give you a guaranteed consequence in exchange for an extra dice for your roll.
 
 ### Help Someone
-Help someone by marking 1 stress to give them +1d. Say how you help them. The GM may also 
+Help someone by marking 1 stress to give them +1d. Say how you help them. The GM may also cause the helper to cause consequences of a failed roll.
 
 ### Group Action
 When you lead a group action, everyone involved rolls the same action and the highest result counts for everyone. You take 1 stress for each person who rolls 1-3
