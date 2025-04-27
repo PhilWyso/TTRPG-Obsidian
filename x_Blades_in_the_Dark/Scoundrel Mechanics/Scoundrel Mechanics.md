@@ -1,4 +1,4 @@
-Here is a list of all the mechanics in Blades in the Dark
+Here is a list of all the player mechanics in Blades in the Dark
 
 ## Daring action
 Deal with a dangerous obstacle by performing a daring action. Say what
@@ -26,7 +26,7 @@ After you figure out what action the player is rolling with, the GM provides the
 Get a bonus die for your roll by marking 2 stress to exert yourself or asking for a Devil's Bargain from the GM. A devil's bargain allows the GM to give you a guaranteed consequence in exchange for an extra dice for your roll.
 
 ### Help Someone
-Help someone by marking 1 stress to give them +1d. Say how you help them. The GM may also cause the helper to cause consequences of a failed roll.
+Help someone by marking 1 stress to give them +1d. Say how you help them. The GM may also cause the helper to suffer consequences of a failed roll.
 
 ### Group Action
 When you lead a group action, everyone involved rolls the same action and the highest result counts for everyone. You take 1 stress for each person who rolls 1-3
