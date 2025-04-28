@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 The stats your character has in this game are going to be defined by your DM. Depending on the situation the DM may apply a stat to your character.
 

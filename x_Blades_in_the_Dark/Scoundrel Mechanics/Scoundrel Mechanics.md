@@ -1,3 +1,5 @@
+#dg-publish
+
 Here is a list of all the mechanics in Blades in the Dark
 
 ## Daring action

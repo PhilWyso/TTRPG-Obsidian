@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 The goal of the system is to create something that is not bogged down by character creation. I want the player to freely be able to create and progress their character while still being able to tie its features to the gameplay.
 

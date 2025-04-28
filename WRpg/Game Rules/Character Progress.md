@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 
 As the game progresses, your character will gain new traits usually through actions done through the course of the game and placed onto your character as a result. These will be placed onto your character by the DM. 
