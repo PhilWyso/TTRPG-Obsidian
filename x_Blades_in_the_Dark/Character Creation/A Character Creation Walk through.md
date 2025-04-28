@@ -1,11 +1,14 @@
+---
+dg-publish: true
+---
 1. Choose a playbook
-	- Cutter - the muscle
-	- Hound - the scout
-	- Leech - The alchemist/arsonist
-	- Lurk - A stealthy infilitrator and burglar
-	- Slide - The Conman
-	- Spider - The mastermind
-	- Whisper - The magic
+	- [[Cutter]] - the muscle
+	- [[Hound]] - the scout
+	- [[Leech]] - The alchemist/arsonist
+	- [[Lurk]] - A stealthy infilitrator and burglar
+	- [[Slide]] - The Conman
+	- [[Spider]] - The mastermind
+	- [[Whisper]] - The magic
 2. Choose a [[Heritage]]
 	- Akaros
 	- Dagger Isles

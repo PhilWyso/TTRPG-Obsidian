@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Attune
 When you Attune, you open your mind to the ghost field or other arcane power.
 You might communicate with a ghost or understand aspects of spectrology. You

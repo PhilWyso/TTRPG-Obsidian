@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 Every scoundrel is in thrall to some vice or another, which they indulge to deal
 with stress. Choose a vice from the list, and describe it on the line above with

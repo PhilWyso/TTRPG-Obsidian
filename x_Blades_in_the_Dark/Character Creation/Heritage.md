@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Your character can come from the following locations:
 
 #### Akaros

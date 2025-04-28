@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Your character’s background describes what they did before they joined the crew.
 Choose one of the general background options from the list on your playbook,
 then write a detail about it that’s specific to your character. For example, you could

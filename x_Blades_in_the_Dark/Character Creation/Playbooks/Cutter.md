@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Cutters are good at winning fights, with violence and with intimidation. Play a Cutter if you want to get your way.
 
 ### A dangerous and intimidating fighter
