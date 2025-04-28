@@ -16,13 +16,13 @@ If you're not sure which action to use, think about your character's playbook, h
 After you figure out what action the player is rolling with, the GM provides the following information before you roll:
 - Potential Consequences
 - The Position - your character's potential to lose
-	- Controlled - The circumstances are not particularly threatening to your character
-	- Risky - The circumstances are risky, that are clear risks to your character
-	- Overwhelming - The circumstances are dangerous, if they fail to pull off their maneuver, your character may risk heavy loss or injury
+	- **Controlled** - The circumstances are not particularly threatening to your character. You act on your terms, you exploit a dominant advantage.
+	- **Risky** - The circumstances are risky. You go head to head, you act under fire, you're taking a chance
+	- **Overwhelming** - The circumstances are unfavorable and dangerous. You're overreaching your capabilities, you're in serious trouble.
 - The Effect - your character's potential to manipulate the situation on a success
-	- Limited Effect - Little change to the circumstances
-	- Standard Effect - Expected change to circumstances
-	- Strong Effect - Significant, beneficial change to circumstances
+	- **Limited** **Effect** - You achieve a partial or weak effect. Your impact is diminished.
+	- **Standard** **Effect** - Expected change to circumstances.
+	- **Great** **Effect** - Significant, beneficial change to circumstances. You achieve more than  usual
 
 At any point before rolling the die, the player can choose to give up and try something else, or potentially do any of the following below to increase their chances of success
 
