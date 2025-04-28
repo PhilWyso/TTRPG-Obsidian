@@ -16,4 +16,8 @@ The city's official police force, the [[Bluecoats]] are a corrupt and brutal org
 
 ### Beyond the Lightning Field
 
-The death-lands lie beyond the lightning field. It is a blighted and haunted wasteland. The ai
+The death-lands lie beyond the lightning field. It is a blighted and haunted wasteland. The air itself is toxic, infused with the corrupted energy of ancient catastrophes. Few dare to venture outside the barrier, and fewer return.
+
+### Ghosts and Demons
+
+Duskwall's magical energies attract all maner of supernatural. Ghosts are restless dead, often malevolent and dangerous. Demons are rare but far more powerful embodying elemental forces or primal chaos. Both are hunted, or potentially recklessly harnessed by individuals.
