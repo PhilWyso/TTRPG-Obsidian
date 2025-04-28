@@ -1,4 +1,4 @@
-Here is a list of all the player mechanics in Blades in the Dark
+Here is a list of all the mechanics in Blades in the Dark
 
 ## Daring action
 Deal with a dangerous obstacle by performing a daring action. Say what
@@ -16,17 +16,22 @@ If you're not sure which action to use, think about your character's playbook, h
 After you figure out what action the player is rolling with, the GM provides the following information before you roll:
 - Potential Consequences
 - The Position - your character's potential to lose
+	- Controlled - The circumstances are not particularly threatening to your character
+	- Risky - The circumstances are risky, that are clear risks to your character
+	- Overwhelming - The circumstances are dangerous, if they fail to pull off their maneuver, your character may risk heavy loss or injury
 - The Effect - your character's potential to manipulate the situation on a success
 	- Limited Effect - Little change to the circumstances
-	- Standard Effect - Expected change to circumsta
+	- Standard Effect - Expected change to circumstances
+	- Strong Effect - Significant, beneficial change to circumstances
 
+At any point before rolling the die, the player can choose to give up and try something else, or potentially do any of the following below to increase their chances of success
 
 
 ### Get a Bonus Die
 Get a bonus die for your roll by marking 2 stress to exert yourself or asking for a Devil's Bargain from the GM. A devil's bargain allows the GM to give you a guaranteed consequence in exchange for an extra dice for your roll.
 
 ### Help Someone
-Help someone by marking 1 stress to give them +1d. Say how you help them. The GM may also cause the helper to suffer consequences of a failed roll.
+Help someone by marking 1 stress to give them +1d. Say how you help them. The GM may also cause the helper to cause consequences of a failed roll.
 
 ### Group Action
 When you lead a group action, everyone involved rolls the same action and the highest result counts for everyone. You take 1 stress for each person who rolls 1-3
