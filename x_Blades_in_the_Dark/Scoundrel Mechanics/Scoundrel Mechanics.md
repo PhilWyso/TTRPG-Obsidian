@@ -1,7 +1,7 @@
 Here is a list of all the mechanics in Blades in the Dark
 
 ## Daring action
-Deal with a dangerous obstacle by performing a daring action. Say what
+Deal with a dangerous obstacle by performing a daring [[Action]]. Say what
 your character does with one of the actions on your character sheet, along
 with your goal. This is the name for rolling dice in the game.
 
@@ -10,10 +10,10 @@ When you're on the score, the GM introduces dangerous obstacles between you and 
 	""I Prowl across the rooftops to avoid the Bluecoats and slip in
 	through the skylight.”" 
 
-By stating your actions this way, you avoid the problem of trying to use an action as if it's a broader skill. You simply say that you're performing the action itself. 
+By stating your actions this way, you avoid the problem of trying to use an [[action]] as if it's a broader skill. You simply say that you're performing the action itself. 
 If you're not sure which action to use, think about your character's playbook, heritage and background. What do they know how to do? How do they address problems?
 
-After you figure out what action the player is rolling with, the GM provides the following information before you roll:
+After you figure out what [[Action]] the player is rolling with, the GM provides the following information before you roll:
 - Potential Consequences
 - The Position - your character's potential to lose
 	- **Controlled** - The circumstances are not particularly threatening to your character. You act on your terms, you exploit a dominant advantage.

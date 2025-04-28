@@ -62,12 +62,16 @@ When you Sway, you influence with guile, charm, or argument.
 You might lie convincingly. You might persuade someone to do what you want. You
 might argue a compelling case that leaves no clear rebuttal. You could try to trick
 people into affection or obedience (but Consorting or Commanding might be better).
+
+### Tinker
 When you Tinker, you fiddle with devices and mechanisms.
 You might create a new gadget or alter an existing item. You might pick a
 lock or crack a safe. You might disable an alarm or trap. You might turn the
 clockwork and electroplasmic devices around the city to your advantage. You
 could try to use your technical expertise to control a vehicle (but Finessing
 might be better).
+
+### Wreck
 When you Wreck, you unleash savage force.
 You might smash down a door or wall with a sledgehammer, or use an explosive
 to do the same. You might employ chaos or sabotage to create a distraction or
