@@ -1,9 +1,7 @@
 ---
 dg-publish: true
 ---
-
-
-Here is a list of all the mechanics in Blades in the Dark
+Here is a list of all the player mechanics in Blades in the Dark
 
 ## Daring action
 Deal with a dangerous obstacle by performing a daring [[Action]]. Say what
@@ -15,7 +13,7 @@ When you're on the score, the GM introduces dangerous obstacles between you and 
 	""I Prowl across the rooftops to avoid the Bluecoats and slip in
 	through the skylight.”" 
 
-By stating your actions this way, you avoid the problem of trying to use an [[action]] as if it's a broader skill. You simply say that you're performing the action itself. 
+By stating your actions this way, you avoid the problem of trying to use an [[Action]] as if it's a broader skill. You simply say that you're performing the action itself. 
 If you're not sure which action to use, think about your character's playbook, heritage and background. What do they know how to do? How do they address problems?
 
 After you figure out what [[Action]] the player is rolling with, the GM provides the following information before you roll:
