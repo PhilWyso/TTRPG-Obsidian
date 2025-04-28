@@ -3,3 +3,17 @@ Welcome adventurers, to the grim and shadowed streets of Duskwall (or Duskvol as
 Duskwall is a metropolis built upon the bones of the past. Its cobblestone streets are lit by flickering gaslights, its skies darkened by smoke pouring from countless chimneys. Steam engines chug and wine, drawing power form arcane generators that are fueled by refined ectoplasm- harvested from the very ghosts that haunt  the city.
 
 Duskwall is surrounded by a massive lightning field, an arcane barrier maintained by the mysterious [[Sparkwrights]]. It is all that stands between the city and the horrors of the outside world: restless ghosts, twisted demons, and otherworld horrors.
+
+### The nightmare Inside
+
+Even within the lightning field, death is never far. Anyone who dies without proper rites and swift intervention will rise as a hungry ghost - a malevolent spirit driven by rage and hunger. [[The Church of the Final Rest]] deploys its Ravenkeepeers and Executors to monitor deaths and collect the dead before this happens.
+
+Life is precarious, most people are poor and overworked, livining in cramped tenements or shanties. The city's noble houses like the [[Greycloaks]] are deeply entrenched in power, controlling industry, trade and the political machine. They care little for the suffering of the masses, focusing instead on maintaining their status and silencing dissent.
+
+### The Bluecoats
+
+The city's official police force, the [[Bluecoats]] are a corrupt and brutal organization. While they protect the noble districts and keep factories running, the rest of the city is left to fend for themselves. 
+
+### Beyond the Lightning Field
+
+The death-lands lie beyond the lightning field. It is a blighted and haunted wasteland. The ai
