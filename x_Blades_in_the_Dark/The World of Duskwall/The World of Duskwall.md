@@ -1,0 +1,5 @@
+Welcome adventurers, to the grim and shadowed streets of Duskwall (or Duskvol as locals call it). It is a city perched on the edge of the known world, caught between the horror's of the outside and the corruption within. Duskwall is a city of gaslight and shadow, where industrial smog mingles with eldritch mist and the only certainty is the ever-present struggle to survive. As members of a crew of rogues, scoundrels, and outcasts, your fate is not to save the city, but to carve out your own sliver of safety and power in its dangerous underbelly.
+
+Duskwall is a metropolis built upon the bones of the past. Its cobblestone streets are lit by flickering gaslights, its skies darkened by smoke pouring from countless chimneys. Steam engines chug and wine, drawing power form arcane generators that are fueled by refined ectoplasm- harvested from the very ghosts that haunt  the city.
+
+Duskwall is surrounded by a massive lightning field, an arcane barrier maintained by the mysterious [[Sparkwrights]]. It is all that stands between the city and the horrors of the outside world: restless ghosts, twisted demons, and otherworld horrors.

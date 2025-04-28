@@ -7,3 +7,5 @@ When you play a Spider, you earn xp when you address a challenge with calculatio
 
 *Are you enmeshed in the network of favors and debts that you exploit as a Spider, or do you scrupulously hold yourself apart, as a cold predator upon the web?*
 
+### Link to spider PDF
+https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Spider.pdf
