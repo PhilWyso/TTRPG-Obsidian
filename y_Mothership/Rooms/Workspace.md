@@ -1,4 +1,9 @@
-Work boots clang and echo. 
+- connects to
+	- [[Docking Bay 1]]
+	- [[Docking Bay 2]]
+	- [[Crew Quarters]]
+	- [[Mine Tunnel]]
+	
 
 - Heavily used but sturdy working gear is stowed in **Cubbies**
 	-  overalls, flashlights, short-range radios, handheld mining tools - 10 sets of each, 9 vac-suits on the wall hooks.One of the mining tools, a handheld laser cutter, is also missing
